@@ -1,5 +1,4 @@
 //Garrette Johnson 
-//ASU ID: 1232552024
 #include <stdio.h>
 #include <string.h>
 #include "util.h" 
