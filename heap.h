@@ -1,5 +1,4 @@
 //Garrette Johnson 
-//ASU ID: 1232552024
 #ifndef heap_h 
 #define heap_h 
 
