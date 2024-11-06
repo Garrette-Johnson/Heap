@@ -1,6 +1,5 @@
 //Which defines the data types descried in section 1.1 or their equivalent 
 //Garrette Johnson 
-//ASU ID: 1232552024
 #ifndef data_structures_h
 #define data_structures_h
 #include "heap.h"
